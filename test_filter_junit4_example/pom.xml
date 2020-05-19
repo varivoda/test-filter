@@ -11,5 +11,18 @@
 
     <artifactId>test_filter_junit4_example</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+        <dependency>
+            <groupId>com.googlecode.junit-toolbox</groupId>
+            <artifactId>junit-toolbox</artifactId>
+            <version>2.4</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
